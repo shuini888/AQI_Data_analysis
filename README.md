@@ -29,7 +29,7 @@ In this project, I would discuss the following 3 questions using the Data Analys
 
 ## Results<a name="results"></a>
 
-My finding result please see the blog.md
+My finding result please see the blog
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
