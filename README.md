@@ -11,14 +11,15 @@
 
 ## Installation <a name="installation"></a>
 
-There is no need to installation any package if you have already installed anaconda.
+There is no need to installation any package if you have already installed anaconda.<br>
+Libraries used in this project: numpy, pandas, matplotlib, seaborn, collections, sklearn, warnings
 
 ## Project Motivation<a name="motivation"></a>
 
 In this project, I would discuss the following 3 questions using the Data Analyst Jobs dataset:
-<p>1.Find the best jobs by salary and company rating</p>
-<p>2.Explore skills required in job descriptions</p>
-<p>3.Predict salary based on company size</p>
+<p>1.Which direction do data analysts get paid more?</p>
+<p>2.What kinds of skills I need to master?</p>
+<p>3.Should I go to big-size company if taking into account wages?</p>
 
 
 ## File Descriptions <a name="files"></a>
@@ -29,7 +30,7 @@ In this project, I would discuss the following 3 questions using the Data Analys
 
 ## Results<a name="results"></a>
 
-My finding result please see the blog
+My finding result please see https://zhuanlan.zhihu.com/p/264843980
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
